@@ -22,7 +22,7 @@ This project solves that by scanning Priority Pass lounge coverage worldwide ðŸŒ
 
 ## Preview ðŸ‘€
 
-![Map Preview](./preview.png)
+![Map Preview](./preview_v2.png)
 **Disclaimer:**
 Created by Li Dai (February 2026). This project is not affiliated with Priority Pass.  Data is collected from public sources and may be incomplete, outdated, or inaccurate.
 
