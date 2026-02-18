@@ -17,7 +17,7 @@ This project solves that by scanning Priority Pass lounge coverage worldwide and
 
 ## Live Interactive Map
 
-- Open map (GitHub Pages):  
+- Open map (GitHub Pages):  🌍 Live Demo
   **https://ld3156.github.io/PP_lounge/priority_pass_lounges_map_v1_Feb26.html**
 
 > If this link returns 404, enable GitHub Pages first:  
