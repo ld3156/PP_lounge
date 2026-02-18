@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+
+# Keep map HTML, ignore heavy generated datasets
+output/data/*.csv
+output/data/*.db
+output_smoke/
