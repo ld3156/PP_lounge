@@ -25,7 +25,7 @@ This project solves that by scanning Priority Pass lounge coverage worldwide and
 
 ## Preview
 
-![Map Preview](./map_preview.png)
+![Map Preview](./preview.png)
 
 ## Data Sources
 
